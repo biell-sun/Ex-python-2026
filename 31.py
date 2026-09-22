@@ -1,7 +1,7 @@
-nu1 = int(input("Diz um numero pro bauiu: "))
+nu1 = int(input("Diz um numero pro baguiu: "))
 
-print(f"\n ___TABUADA DO {E}___\n")
-E = 0
+print(f"\n ___TABUADA DO {nu1}___\n")
+e = 0
 
-for E in range(11):
-    print(f'{num} X {E} = {nu1*E}')
+for e in range(11):
+    print(f'{nu1} X {e} = {nu1*e}')
